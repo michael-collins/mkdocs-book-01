@@ -6,6 +6,8 @@ theme:
 nav:
   - Home: index.md
 
-plugins: []
+plugins:
+    - search
+    - pdf-export
 
 repo_url: https://gitlab.com/lramage/mkdocs-gitbook-theme
