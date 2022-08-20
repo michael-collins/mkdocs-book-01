@@ -8,6 +8,6 @@ nav:
 
 plugins:
     - search
-    - pdf-export
+    - with-pdf
 
 repo_url: https://gitlab.com/lramage/mkdocs-gitbook-theme
